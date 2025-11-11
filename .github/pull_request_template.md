@@ -1,0 +1,6 @@
+- ¿Qué hace este PR?
+- [ ] Compila / pasa tests
+- [ ] Sigue convención de commits
+- [ ] Actualiza README/Docs si aplica
+- [ ] Enlaza issue (close #N)
+- Riesgos, alcance y pruebas realizadas
